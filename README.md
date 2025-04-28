@@ -65,5 +65,3 @@ CLUSTER 0 (highest) - customers in this group buy items in high quantity. The sa
 CLUSTER 1 (lowest) - This group represents customers who buy items in varying quantities ~30, they tend to low price items ~68. Their sales are ~ 2061, they buy products with lowest MSRP.
 
 CLUSTER 2, 3, 4, 5 have quite similar properties. We need to analyze them deeper to understand their pattern of purchase.
-
-   git clone https://github.com/your-username/customer-segmentation.git
